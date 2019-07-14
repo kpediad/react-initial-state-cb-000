@@ -10,7 +10,7 @@ ReactDOM.render(
 );
 
 ReactDOM.render(
-  <Address 
+  <Address
     street="Santa Monica Blvd."
     city="Santa Monica"
   />,
